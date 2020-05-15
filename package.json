@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A command handler and event handler with examples",
   "main": "index.js",
+   "engines": {
+    "npm": "12.16.x",
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
@@ -28,8 +31,5 @@
     "superagent": "^5.0.5"
   },
   "devDependencies": {},
-  "keywords": [],
-  "engines": {
-    "npm": "6.x",
-  },
+  "keywords": []
 }
