@@ -29,7 +29,7 @@
   },
   "devDependencies": {},
   "keywords": [],
-  "engines": {,
+  "engines": {
     "npm": "6.x",
   },
 }
