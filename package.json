@@ -1,0 +1,32 @@
+{
+  "name": "handlerbyetzy",
+  "version": "1.0.0",
+  "description": "A command handler and event handler with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Etzyy",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "fs": "0.0.1-security",
+    "discord-giveaways": "^3.0.4",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "node-osu": "^1.3.1",
+    "hastebin-gen": "^1.3.1",
+    "mathjs": "^6.0.2",
+    "give-me-a-joke": "^0.1.2",
+    "simple-youtube-api": "^5.0.2",
+    "ytdl-core": "^2.1.2",
+    "yql": "^1.0.2",
+    "superagent": "^5.0.5"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
