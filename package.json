@@ -32,5 +32,7 @@
     "superagent": "^5.0.5"
   },
   "devDependencies": {},
-  "keywords": []
+  "keywords": ["example",
+    "heroku"
+      ]
 }
