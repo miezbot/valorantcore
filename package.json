@@ -28,8 +28,8 @@
     "superagent": "^5.0.5"
   },
   "devDependencies": {},
-  "keywords": []
-  "engines": {
-    "npm": "6.x"
+  "keywords": [],
+  "engines": {,
+    "npm": "6.x",
   },
 }
