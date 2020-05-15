@@ -4,7 +4,8 @@
   "description": "A command handler and event handler with examples",
   "main": "index.js",
    "engines": {
-    "npm": "12.16.x",
+    "node": "8.x",
+    "npm": "*"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
