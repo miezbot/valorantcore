@@ -4,7 +4,7 @@
   "description": "A command handler and event handler with examples",
   "main": "index.js",
    "engines": {
-    "node": "8.x",
+    "node": "10.x",
     "npm": "*"
   },
   "scripts": {
